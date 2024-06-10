@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=WELCOME!&fontSize=70&fontAlign=50&fontAlignY=30&desc=I'm%20Qijun%20He&descAlign=50&descSize=20&descAlignY=55&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=WELCOME!&fontSize=70&fontAlign=50&fontAlignY=30&desc=I'm%20He%20Qijun&descAlign=50&descSize=20&descAlignY=55&animation=twinkling" />
 </p>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hqj2221&abbreviated=true" />
