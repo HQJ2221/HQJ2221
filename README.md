@@ -17,7 +17,7 @@
 <br/>
 <br/>
 <img align="center" height="400" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=HQJ2221&title_color=66FFFF&text_color=FFFF66&icon_color=FFFFCC&bg_color=404040&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&langs_count=20" />
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HQJ2221&title_color=66FFFF&text_color=FFFF66&icon_color=FFFFCC&bg_color=404040&include_all_commits=true&show_icons=true&hide_border=true&layout=donut-vertical&langs_count=8" />
+<img align="center" height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HQJ2221&title_color=66FFFF&text_color=FFFF66&icon_color=FFFFCC&bg_color=404040&include_all_commits=true&show_icons=true&hide_border=true&layout=donut-vertical&langs_count=8" />
 <br/>
 <br/>
 <img align="center" src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js&theme=dark" />
