@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=WELCOME!&fontSize=70&fontAlign=50&fontAlignY=30&desc=I'm%20He%20Qijun&descAlign=50&descSize=20&descAlignY=55&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=WELCOME!&fontSize=70&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20site!&descAlign=50&descSize=20&descAlignY=55&animation=twinkling" />
 </p>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=hqj2221&abbreviated=true" />
+<!-- img src="https://komarev.com/ghpvc/?username=hqj2221&abbreviated=true" -->
 <a href="https://github.com/HQJ2221"><img src="https://img.shields.io/badge/Github-HQJ2221-6666ff?logo=github" /></a>
 <a href=""><img src="https://img.shields.io/badge/Bilibili-Null-ff6666?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/版本-1.0.00-66ffff?logo=devdotto" />
+<img src="https://img.shields.io/badge/版本-1.0.03-66ffff?logo=devdotto" />
 </div>
 <br/>
 <br/>
