@@ -36,6 +36,16 @@
 <img align="center" src="https://skillicons.dev/icons?i=github,java,c,cpp,py,anaconda,html,css,js,postgres&theme=light&perline=10" />
 </p>
 
+> Well, based on the record of my coding, I have to give a brief introduction about myself.
+>
+> As you see, I *spend most time* on frontend language like HTML. Actually, that's because I'm using hexo to help do my lecture note.
+>
+> In practice, I'm much familiar with `Java`, `C++` and `Python` ⛅
+>
+> I'm most interesting in `C++` though I still have some problems on it, but I'm keeping learning on it.
+>
+> Nice to meet you and hopefully we can build connection!
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&&section=footer&text=Thanks%20for%20viewing!&fontSize=30&fontAlign=50&fontAlignY=80&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
