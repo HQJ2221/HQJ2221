@@ -11,8 +11,8 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/HQJ2221/HQJ_CS_Learning">
- <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=HQJ2221&repo=HQJ_CS_Learning">
+<a href="https://github.com/HQJ2221/HQJ2221.github.io">
+ <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=HQJ2221&repo=HQJ2221.github.io">
 </a>
 <a href="https://github.com/HQJ2221/ArkNet">
  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=HQJ2221&repo=ArkNet">
