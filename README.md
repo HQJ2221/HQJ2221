@@ -10,21 +10,6 @@
 <br/>
 <br/>
 
-<div align="center">
-<a href="https://github.com/HQJ2221/ArkNet">
- <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=HQJ2221&repo=ArkNet">
-</a>
-<a href="https://github.com/HQJ2221/PlACo">
- <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=HQJ2221&repo=PlACo">
-</a>
-<a href="https://github.com/HQJ2221/HQJ2221.github.io">
- <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=HQJ2221&repo=HQJ2221.github.io">
-</a>
-<a href="https://github.com/HQJ2221/Jungle">
- <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=HQJ2221&repo=Jungle">
-</a>
-</div>
-
 
 
 <p align="center">
