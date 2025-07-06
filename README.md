@@ -6,7 +6,7 @@
 <a href="https://github.com/HQJ2221"><img src="https://img.shields.io/badge/Github-HQJ2221-40AEF0?logo=github" /></a>
 <a href=""><img src="https://img.shields.io/badge/Bilibili-Private-004088?logo=bilibili" /></a>
 <a href="mailto:12212131@mail.sustech.edu.cn"><img src="https://img.shields.io/badge/Email-click here-005FF9?logo=maildotru" /></a>
-<img src="https://img.shields.io/badge/Version-1.0.25-67C52A" />
+<img src="https://img.shields.io/badge/Version-1.0.26-67C52A" />
 </div>
 <br/>
 <br/>
@@ -25,7 +25,9 @@
 <img align="center" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HQJ2221&hide_progress=false&layout=donut&theme=shadow_green&hide_border=true" />
 <br/>
 <br/>
-<img align="center" src="https://skillicons.dev/icons?i=github,java,c,cpp,py,anaconda,html,css,js,postgres&theme=light&perline=10" />
+<img align="center" src="https://skillicons.dev/icons?i=github,git,java,cpp,py,opencv,anaconda,md,linux,windows,nextjs,tailwind,&theme=light&perline=12" />
+<br/>
+<img align="center" src="https://skillicons.dev/icons?i=c,latex,pytorch,postgres,rust,clion,idea,vscode,docker,jenkins,gitlab&theme=dark&perline=12" />
 </p>
 
 
