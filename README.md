@@ -3,9 +3,10 @@
 </p>
 <div align="center">
 <!-- img src="https://komarev.com/ghpvc/?username=hqj2221&abbreviated=true" -->
-<a href="https://github.com/HQJ2221"><img src="https://img.shields.io/badge/Github-HQJ2221-6666ff?logo=github" /></a>
-<a href=""><img src="https://img.shields.io/badge/Bilibili-Null-ff6666?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/版本-1.0.24-66ffff?logo=devdotto" />
+<a href="https://github.com/HQJ2221"><img src="https://img.shields.io/badge/Github-HQJ2221-40AEF0?logo=github" /></a>
+<a href=""><img src="https://img.shields.io/badge/Bilibili-Private-004088?logo=bilibili" /></a>
+<a href="mailto:12212131@mail.sustech.edu.cn"><img src="https://img.shields.io/badge/Email-click here-005FF9?logo=maildotru" /></a>
+<img src="https://img.shields.io/badge/Version-1.0.25-67C52A" />
 </div>
 <br/>
 <br/>
